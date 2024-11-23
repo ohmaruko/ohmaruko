@@ -1,5 +1,5 @@
 ## Hi, I'm Madoka 👋
-🎨 Graphic, branding, and web designer who loves crafting playful, colorful, and character-driven designs.<br>
+🎨 Graphic, branding, and web designer bringing color and character into my work, creating playful and organic visuals.<br>
 👩‍💻 Comfortable with frontend coding, bringing designs to life with React.<br>
 [Check out my portfolio](https://www.workwithmadoka.com/)
 <p align="center">
