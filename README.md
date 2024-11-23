@@ -1,6 +1,7 @@
 ## Hi, I'm Madoka! 👋
 🎨 Graphic, branding, and web designer who loves crafting playful, colorful, and character-driven designs.
 👩‍💻 Comfortable with frontend coding, bringing designs to life with React.
+![](bob.gif)
 
 <!--
 **ohmaruko/ohmaruko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<iframe src="https://giphy.com/embed/3o6ZtbBRPGc1LvF4Na" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spongebob-3o6ZtbBRPGc1LvF4Na">via GIPHY</a></p>
