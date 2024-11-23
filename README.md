@@ -2,7 +2,9 @@
 🎨 Graphic, branding, and web designer who loves crafting playful, colorful, and character-driven designs.<br>
 👩‍💻 Comfortable with frontend coding, bringing designs to life with React.<br>
 [Check out my portfolio](https://www.workwithmadoka.com/)
-![](bob.gif)
+<p align="center">
+  <img src="bob.gif" alt="animated" />
+</p>
 
 <!--
 **ohmaruko/ohmaruko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
